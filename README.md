@@ -18,4 +18,4 @@ No known issues
 - Use the freshest IntelMausiEthernet to patch LAN
 - Use the freshest AppleALC to patch audio (inject "15", tick ResetHDA)
 
-Bootup config.plist included
+Bootup **config.plist** included
